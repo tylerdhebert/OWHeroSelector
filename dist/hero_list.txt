@@ -1,0 +1,29 @@
+ana
+ashe
+bastion
+brigitte
+d.va
+doomfist
+genji
+hanzo
+junkrat
+lucio
+mccree
+mei
+mercy
+moira
+orisa
+pharah
+reaper
+reinhardt
+roadhog
+soldier: 76
+sombra
+symmetra
+torbjorn
+tracer
+widowmaker
+winston
+wrecking ball
+zarya
+zenyatta
